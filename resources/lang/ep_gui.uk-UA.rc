@@ -429,7 +429,7 @@ BEGIN
 
     IDS_MAINTENANCE             "Налаштування та видалення"
 
-    IDS_UNINSTALL               "Видалити"
+    IDS_UNINSTALL               "Видалення"
     IDS_UNINSTALL_UNINSTALL     "Видалити ExplorerPatcher"
 
     IDS_FOOTER_RESTART          "Перезавантажити Провідник"
